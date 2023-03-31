@@ -1,0 +1,51 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/images/bg/7-1.jpg");
+    background-size: cover;
+    margin: -5px;
+    padding: -5px;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.trending {
+    height: auto;
+    background: url("../assets/images/bg/actor.jpg");
+    background-size: cover;
+    margin: -5px;
+    padding: -5px;
+}
+
+.warword {
+    height: auto;
+    background: url("../assets/images/bg/war.jpg");
+    background-size: cover;
+    margin: -5px;
+    padding: -5px;
+}
+
+.movieWrapper {
+}
+
+.movieImage {
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images {
+    height: 500px;
+}
