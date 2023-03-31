@@ -1,7 +1,7 @@
 ## Tampilan Aplikasi
-<img src="assets/images/dasboard.png" alt="Home">
-<img src="assets/images/list1.png" alt="Movie">
-<img src="assets/images/list2.png" alt="Movie2">
+<img src="src/assets/images/website/dasboard.png" alt="Home">
+<img src="src/assets/images/website/list1.png" alt="Movie">
+<img src="src/assets/images/website/list2.png" alt="Movie2">
 
 # Getting Started with Create React App
 
